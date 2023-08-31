@@ -1,6 +1,6 @@
 while True:
     try:
-        n = int(input("Введите число "))
+        n = int(input("Введите число от 1 до 10000 "))
     except ValueError:
         print("Введите число")
         if a < 0 or a > 100000:
