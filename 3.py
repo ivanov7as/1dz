@@ -11,6 +11,6 @@ for i in range(tries+1):
         print("Верно")
         break
     if x < num:
-        print("Верное число больше")
+        print("Нужное число больше")
     if x > num:
-        print("Верное число меньше")
+        print("Нужное число меньше")
